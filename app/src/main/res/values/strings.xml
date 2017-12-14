@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CustomLinkMovementMethod</string>
+    <string name="custom_link_string">Google’s <a href="https://www.google.com/policies/privacy/"> privacy policies</a> explain
+                       how we treat your personal data and protect your privacy when you use our Services.
+                       For information about how to contact Google, please visit our
+                       <a href="https://support.google.com/bin/static.py?hl=en&amp;ts=1114905&amp;page=ts.cs">contact page</a>.</string>
+</resources>
